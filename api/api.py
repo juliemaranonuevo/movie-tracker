@@ -1,4 +1,3 @@
-
 from fastapi import FastAPI
 
 from api.handlers import demo
